@@ -2,7 +2,7 @@
 
 ### CVPR 2026
 
-Yanzhe Lyu$<sup>*</sup>, Chen Geng<sup>*</sup>, Karthik Dharmarajan, Yunzhi Zhang, Hadi Alzayer, Shangzhe Wu, Jiajun Wu
+Yanzhe Lyu<sup>&ast;</sup>, Chen Geng<sup>&ast;</sup>, Karthik Dharmarajan, Yunzhi Zhang, Hadi Alzayer, Shangzhe Wu, Jiajun Wu
 
 [[`arxiv`](https://arxiv.org/abs/2601.04194)] [[`project page`](https://yanzhelyu.github.io/chord/)]
 
