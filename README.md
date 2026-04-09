@@ -8,4 +8,4 @@ Yanzhe Lyu<sup>&ast;</sup>, Chen Geng<sup>&ast;</sup>, Karthik Dharmarajan, Yunz
 
 <!-- This repository is the official implementation of "Choreographing a World of Dynamic Objects". -->
 
-The codebase is being organized and would be released soon. In the meantime, please contact [Yanzhe Lyu](https://yanzhelyu.github.io/chord/)] ( yanzhel@stanford.edu) for early access.
+The codebase is being organized and would be released soon. In the meantime, please contact [Yanzhe Lyu](https://yanzhelyu.github.io/chord/) ( yanzhel@stanford.edu) for early access.
